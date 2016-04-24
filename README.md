@@ -1,4 +1,4 @@
-# Brunch Eith Elm
+# Brunch With Elm
 Brunch With Elm & Sass
 
 ## Getting Started
