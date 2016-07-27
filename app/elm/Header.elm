@@ -1,4 +1,4 @@
-module Header (..) where
+module Header exposing (..)
 
 import Html exposing (div, h1, ul, li, a, text)
 import Html.Attributes exposing (id, href)
