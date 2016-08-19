@@ -4,7 +4,7 @@
   "description": "Brunch With Elm",
   "main": "brunch-config.js",
   "scripts": {
-    "postinstall": "elm package install",
+    "postinstall": "elm package install -y",
     "start": "brunch watch --server",
     "prod": "brunch build --production"
   },
